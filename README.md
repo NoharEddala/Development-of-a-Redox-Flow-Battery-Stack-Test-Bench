@@ -46,8 +46,6 @@ The setup integrates:
 |-----------|--------|
 | Schematic design | Ni Multisim |
 | Testing | Laboratory Test Equipment |
-| Analysis | Electrical Performance Evaluation |
-| Documentation | Technical Reports & Test Records |
 
 ---
 
