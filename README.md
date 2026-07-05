@@ -37,13 +37,14 @@ The setup integrates:
 - Performance characterization and system validation
 - Modular architecture for different stack configurations
 
----
+<img width="1224" height="254" alt="Redox flow" src="https://github.com/user-attachments/assets/9570ef85-2415-4b37-8009-e71a2c929f77" />
+
 
 ## 🛠 Tools & Technologies
 
 | Category | Tools |
 |-----------|--------|
-| Data Acquisition | Measurement & Monitoring Systems |
+| Schematic design | Ni Multisim |
 | Testing | Laboratory Test Equipment |
 | Analysis | Electrical Performance Evaluation |
 | Documentation | Technical Reports & Test Records |
